@@ -14,7 +14,7 @@ public class FizzBuzzTest {
 
     @Before
     public void setUp() {
-        fizzBuzz<?> = new FizzBuzz<?>();
+        fizzBuzz = new FizzBuzz<?>();
     }
 
     @Test
